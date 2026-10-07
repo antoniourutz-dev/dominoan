@@ -1,0 +1,6 @@
+{
+  "name": "Dominoan - Sinonimoen hezkuntza-jokoa",
+  "description": "Euskarazko sinonimoen domino-joko hezigarri eta interaktiboa, taula dinamikoa, kronometroa, zigorrak eta inprimatzeko modua dituena.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
