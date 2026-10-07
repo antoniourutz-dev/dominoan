@@ -565,7 +565,7 @@ export default function App() {
   const teacher = isTeacher(authUser);
 
   return (
-    <div className="h-[100dvh] max-h-[100dvh] bg-slate-950 text-slate-100 flex flex-col font-['Outfit',sans-serif] overflow-hidden select-none">
+    <div className="app-shell bg-slate-950 text-slate-100 flex flex-col font-['Outfit',sans-serif] select-none">
       {/* Top Navbar - Clean, Responsive Mobile-First */}
       <header className="bg-slate-900 border-b border-slate-800 px-2.5 sm:px-4 py-2 sticky top-0 z-40 shrink-0 print:hidden">
         <div className="max-w-4xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-2">
